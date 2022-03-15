@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mostafamoaaz
 - 👀 I’m interested in data science generally 
-- 🌱 I’m currently learning statistics and database
+- 🌱 I'm good with databases ,statictics and ML many algorithms
+- 🌱 I’m currently practicing on end to end ML project to enhance my experience
 - 💞️ I’m looking to collaborate on any fruitful project with my skills 
 - 📫 you can reach me through my mail "mostafamoaazfcih@gmail.com"
 
