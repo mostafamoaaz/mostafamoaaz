@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @mostafamoaaz
-- 👀 I’m interested in data science generally 
-- 🌱 I'm good with databases ,statictics and ML many algorithms
-- 🌱 I’m currently practicing on end to end ML project to enhance my experience
-- 💞️ I’m looking to collaborate on any fruitful project with my skills 
-- 📫 you can reach me through my mail "mostafamoaazfcih@gmail.com"
-
-<!---
-mostafamoaaz/mostafamoaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Mostafa Moaaz
+welcome to my github, i've graduated from computer science college in 2020 and i am so interested in Data analysis field hopefully some day i will be one of a kind data scientest but for now i am an Statistically significant Data Analyst
+## here you can find my projects
+ feel home and take a tour among many repos i have created
+ take your time there is alot of stuff here and alot more on the way, i am updating my github once or twice a week
+ you can reach me through my mail "mostafamoaazfcih@gmail.com"
