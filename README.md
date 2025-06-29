@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **mostafamoaazfcih@gmail.com**
 
-- 📫 Connect with me [https://www.linkedin.com/in/mostafa-moaaz-fcih/](**linkedin.com/in/mostafamoaazfcih**)
+- 📫 Connect with me [**mostafa moaaz linked-in**](https://www.linkedin.com/in/mostafa-moaaz-fcih/)
 
-- 📄 Know about my experiences [https://flowcv.com/resume/k3r11qkq66](https://flowcv.com/resume/k3r11qkq66)
+- 📄 Know about my experiences [**resume**](https://flowcv.com/resume/k3r11qkq66)
 
 
 
