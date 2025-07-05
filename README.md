@@ -2,7 +2,7 @@
 <h3 align="center">💻 Cloud | DevOps | Linux | Automation | System Administrator</h3>
 
 
-- 🔭 I’m currently working on **Automating a Deployment**
+- 🔭 I’m currently working on **building a user management TUI ** stay toned ✌️✌️
 
 - 🌱 I’m currently learning **Go**
 
